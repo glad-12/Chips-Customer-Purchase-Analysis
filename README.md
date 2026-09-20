@@ -24,8 +24,7 @@ The client lacks visibility into how different customer segments engage with the
 - Develop practical commercial recommendations for category review.
 
 ## Dashboard Preview
-<img width="1366" height="717" alt="Customer Purchase 2" src="https://github.com/user-attachments/assets/b9c5410d-446a-47ed-8bcd-bf828d09dda8" />
-
+<img width="1278" height="597" alt="Customer Purchase 2 (2)" src="https://github.com/user-attachments/assets/450c7031-3e4f-47e2-9806-5e29bff00409" />
 
 ## Tools Used
 
